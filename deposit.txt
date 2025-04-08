@@ -1,0 +1,8 @@
+
+RECEIPT
+Date: Tue Apr 08 18:48:57 2025
+Account Holder: Dawit
+Account No: 12345
+Deposited: 500
+Balance: 1000
+
